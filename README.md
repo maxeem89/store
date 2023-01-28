@@ -1,5 +1,5 @@
 # database name store 
-To install the application
+## To install the application
 Clone the repo : git clone https://github.com/maxeem89/store.git
 Create database and modify .env file with db name and db account details
 Install venodr packages : composer install
